@@ -1,1 +1,3 @@
-I write this thing soon... promise.
+1. Clone the repo
+2. `npm install`
+3. `npm start`
