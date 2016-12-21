@@ -1,3 +1,4 @@
 1. Clone the repo
-2. `npm install`
-3. `npm start`
+2. cd into the directory
+3. `npm install`
+4. `npm start`
